@@ -61,6 +61,17 @@ I prefer evidence over storytelling: define the real problem, build the smallest
 
 </div>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KE-1027&show_icons=true&theme=dark&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KE-1027&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=KE-1027&theme=dark" alt="streak" />
+</p>
+
 ## 🎓 Education
 
 - **MSc in Business Analytics** — City University of Hong Kong
