@@ -64,12 +64,11 @@ I prefer evidence over storytelling: define the real problem, build the smallest
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KE-1027&show_icons=true&theme=dark&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KE-1027&layout=compact&theme=dark" />
+  <img src="https://raw.githubusercontent.com/KE-1027/KE-1027/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KE-1027&theme=dark" alt="streak" />
+  <img height="170em" src="https://raw.githubusercontent.com/KE-1027/KE-1027/main/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+  <img height="170em" src="https://raw.githubusercontent.com/KE-1027/KE-1027/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="top languages" />
 </p>
 
 ## 🎓 Education
